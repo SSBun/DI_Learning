@@ -1,0 +1,20 @@
+PODS:
+  - Resolver (1.5.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Resolver
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Resolver
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 09d16fb7af0da825a8da9c073e9d3a3b3069c090
+
+COCOAPODS: 1.11.2
